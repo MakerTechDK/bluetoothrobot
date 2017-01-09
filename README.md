@@ -15,7 +15,3 @@ instagram: https://www.instagram.com/makertech_dk/
 youtube: https://www.youtube.com/channel/UCZfXxUfpS7q-v1gsMY-hQtA
 
 twitter: https://twitter.com/MakerTech_dk
-
-
-
-This code is released under the GNU GPLv3 license (http://choosealicense.com/licenses/gpl-3.0/)
